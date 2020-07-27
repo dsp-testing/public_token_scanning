@@ -1,6 +1,7 @@
 # public_token_scanning
 --------
 # NOTE: Please do not put any Samsara tokens in this repo unless you are specifically testing their endpoint
+## (And if you do add some for testing, please remove them when you're done -- Samsara has asked us to reduce the noise)
 --------
 
 {input: "PLK2f20039f81d0e55f5d1cc412c510dccd"}
